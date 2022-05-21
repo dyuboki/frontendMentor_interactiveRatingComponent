@@ -21,5 +21,5 @@ document.getElementById("submit-feedback").addEventListener('click',
     feedback_content.style.display = "none";
     thankyou_content.style.display = "flex";
 
-    feedback_display.innerHTML = `You selected ${feedback_value} out of 5`;
+    feedback_display.innerHTML = `<p>You selected ${feedback_value} out of 5</p>`;
 });
