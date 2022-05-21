@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Interactive Rating Component](https://dyuboki.github.io/frontentMentor_interactiveRatingComponent/)
+- Live Site URL: [Interactive Rating Component](https://dyuboki.github.io/frontendMentor_interactiveRatingComponent/)
 
 ## My process
 
