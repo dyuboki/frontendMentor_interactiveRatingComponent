@@ -6,13 +6,12 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
+  - [Screenshots](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 
 
 ## Overview
@@ -26,7 +25,7 @@ Users should be able to:
 - Select and submit a number rating
 - See the "Thank you" card state after submitting a rating
 
-### Screenshot
+### Screenshots
 
 ![](./images/own_screenshot.png)
 
@@ -34,8 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Interactive Rating Component](https://dyuboki.github.io/frontentMentor_interactiveRatingComponent/)
 
 ## My process
 
@@ -57,8 +55,4 @@ Also I would love to find a way to add transitions properly, but there are a lot
 
 Also gotta better organize CSS files, Good God..
 
-### Useful resources
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
 
